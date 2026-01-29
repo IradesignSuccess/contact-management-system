@@ -1,2 +1,2 @@
 # contact-management-system
-Basic web contact management system built with HTML, CSS and MySQL. Includes database structure and sample queries for contact storage and management.
+Basic Contact Management CRUD system built with HTML, CSS and MySQL. Includes database structure, sample data and web interface.
